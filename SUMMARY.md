@@ -6,6 +6,7 @@
 * [Rust 对比](ch1/vs.md)
     * [Rust VS C/C++](ch1/vs-cpp.md)
     * [Rust VS Java](ch1/vs-java.md)
+    * [Rust VS Go](ch1/vs-go.md)
     * [Rust VS Python](ch1/vs-python.md)
 * [Rust 特性](ch1/feature.md)
 * [Rust 问题](ch1/problem.md)
